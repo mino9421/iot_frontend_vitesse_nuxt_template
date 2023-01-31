@@ -78,3 +78,9 @@ npx degit antfu/vitesse-nuxt3 my-nuxt3-app
 cd my-nuxt3-app
 pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
 ```
+
+### Development
+
+```bash
+pnpm dev
+```
